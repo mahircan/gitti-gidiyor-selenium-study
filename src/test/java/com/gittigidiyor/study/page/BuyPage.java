@@ -1,10 +1,29 @@
 package com.gittigidiyor.study.page;
 
-import com.gittigidiyor.study.base.BagePage;
+import com.gittigidiyor.study.base.BasePage;
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
-public class BuyPage extends BagePage {
+
+
+public class BuyPage extends BasePage {
+    By saveButtonLocator = new By.ByCssSelector("");
+    By editButtonLocator = new By.ByCssSelector("");
     public BuyPage(WebDriver driver) {
         super(driver);
+    }
+
+    public void saveButton(){
+        click(saveButtonLocator);
+    }
+
+   // public boolean checkErrorMessage(){}
+
+    public void scrollDownClickBuy() throws InterruptedException {
+            Thread.sleep(3000);
+            scrollDown().executeScript("window.scrollBy(0,document.body.scrollHeight)");
+    }
+    public void clickEditBoxButton(){
+        click(editButtonLocator);
     }
 }
