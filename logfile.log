@@ -1,0 +1,919 @@
+2021-12-02 17:25:56,505 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-02 17:26:05,356 INFO  [Log] select_favorite_products_and_go_to_product() Passed! 
+2021-12-02 17:26:06,939 ERROR [Log] add_cart_product_and_add_adress() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"select[data-maxamount='3']"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '10.254.158.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [71c7ba5c9ce365238d4cec6a5891ca85, findElement {using=css selector, value=select[data-maxamount='3']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51177}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51177/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 71c7ba5c9ce365238d4cec6a5891ca85 
+2021-12-02 17:26:12,082 INFO  [Log] go_to_favorite_page_add_and_delete() Passed! 
+2021-12-02 17:27:19,452 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-02 17:27:28,510 INFO  [Log] select_favorite_products_and_go_to_product() Passed! 
+2021-12-02 17:27:29,479 ERROR [Log] add_cart_product_and_add_adress() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"select[data-maxamount='3']"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '10.254.158.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e2b72742846555e59f774ec51a338879, findElement {using=css selector, value=select[data-maxamount='3']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51309}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51309/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e2b72742846555e59f774ec51a338879 
+2021-12-02 17:27:34,841 INFO  [Log] go_to_favorite_page_add_and_delete() Passed! 
+2021-12-02 17:37:15,736 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-02 17:37:24,420 INFO  [Log] select_favorite_products_and_go_to_product() Passed! 
+2021-12-02 17:37:25,782 ERROR [Log] add_cart_product_and_add_adress() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"select[data-maxamount='3']"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '10.254.158.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [19c3040a0d7efc45957cdd444cdc9b9f, findElement {using=css selector, value=select[data-maxamount='3']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51682}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51682/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 19c3040a0d7efc45957cdd444cdc9b9f 
+2021-12-02 17:37:30,720 INFO  [Log] go_to_favorite_page_add_and_delete() Passed! 
+2021-12-02 17:45:33,938 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-02 17:45:41,895 INFO  [Log] select_favorite_products_and_go_to_product() Passed! 
+2021-12-02 17:45:41,914 ERROR [Log] add_cart_product_and_add_adress() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"h1[class='cart-title cart-header-title']"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '10.254.158.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [af7651b6b7e6c6ebcc78299bf9d0608d, findElement {using=css selector, value=h1[class='cart-title cart-header-title']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52079}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52079/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: af7651b6b7e6c6ebcc78299bf9d0608d 
+2021-12-02 17:45:41,928 ERROR [Log] go_to_favorite_page_add_and_delete() Failed! with cause: Cannot invoke "com.gittigidiyor.study.page.CartPage.goToHomePage()" because "this.cartPage" is null 
+2021-12-02 22:16:20,931 ERROR [Log] login_and_searh_a_product() Failed! with cause: Expected condition failed: waiting for visibility of element located by By.cssSelector: a[data-cy='header-login-button'] (tried for 3 second(s) with 500 milliseconds interval)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '192.168.1.23', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52433}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52433/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c260454636ecfd1dd56a4dc1a6b9462f 
+2021-12-02 22:16:20,959 ERROR [Log] select_favorite_products_and_go_to_product() Failed! with cause: Cannot invoke "com.gittigidiyor.study.page.ProductsPage.scrollDownClick()" because "this.productsPage" is null 
+2021-12-02 22:16:20,967 ERROR [Log] add_cart_product_and_add_adress() Failed! with cause: Cannot invoke "com.gittigidiyor.study.page.ProductDetailPage.isOnCheckProductDetailPage()" because "this.productDetailPage" is null 
+2021-12-02 22:16:20,984 ERROR [Log] go_to_favorite_page_add_and_delete() Failed! with cause: Cannot invoke "com.gittigidiyor.study.page.CartPage.goToHomePage()" because "this.cartPage" is null 
+2021-12-02 22:16:43,836 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-02 22:17:00,666 INFO  [Log] select_favorite_products_and_go_to_product() Passed! 
+2021-12-02 22:17:00,719 ERROR [Log] add_cart_product_and_add_adress() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"h1[class='cart-title cart-header-title']"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '192.168.1.23', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [15b9b437e6145aacaaa150696da94197, findElement {using=css selector, value=h1[class='cart-title cart-header-title']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52482}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52482/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 15b9b437e6145aacaaa150696da94197 
+2021-12-02 22:17:00,741 ERROR [Log] go_to_favorite_page_add_and_delete() Failed! with cause: Cannot invoke "com.gittigidiyor.study.page.CartPage.goToHomePage()" because "this.cartPage" is null 
+2021-12-02 22:19:50,211 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-02 22:20:06,725 INFO  [Log] select_favorite_products_and_go_to_product() Passed! 
+2021-12-02 22:20:06,948 ERROR [Log] add_cart_product_and_add_adress() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"h1[class='cart-title cart-header-title']"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '192.168.1.23', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4603ce1936a9980953da05004cca3e91, findElement {using=css selector, value=h1[class='cart-title cart-header-title']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52730}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52730/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4603ce1936a9980953da05004cca3e91 
+2021-12-02 22:20:06,967 ERROR [Log] go_to_favorite_page_add_and_delete() Failed! with cause: Cannot invoke "com.gittigidiyor.study.page.CartPage.goToHomePage()" because "this.cartPage" is null 
+2021-12-02 22:23:08,274 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-02 22:23:27,787 INFO  [Log] select_favorite_products_and_go_to_product() Passed! 
+2021-12-02 22:23:28,080 ERROR [Log] add_cart_product_and_add_adress() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"h1[class='cart-title cart-header-title']"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '192.168.1.23', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0d9b41631496b3cba907abe1031e8155, findElement {using=css selector, value=h1[class='cart-title cart-header-title']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52849}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52849/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0d9b41631496b3cba907abe1031e8155 
+2021-12-02 22:23:28,106 ERROR [Log] go_to_favorite_page_add_and_delete() Failed! with cause: Cannot invoke "com.gittigidiyor.study.page.CartPage.goToHomePage()" because "this.cartPage" is null 
+2021-12-02 22:27:44,258 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-02 22:28:04,529 ERROR [Log] select_favorite_products_and_go_to_product() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"h1[class='cart-title cart-header-title']"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '192.168.1.23', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1ea706f1af85ddc7494772a000117ade, findElement {using=css selector, value=h1[class='cart-title cart-header-title']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53097}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53097/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1ea706f1af85ddc7494772a000117ade 
+2021-12-02 22:28:04,596 ERROR [Log] add_cart_product_and_add_adress() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"select[data-maxamount='3']"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '192.168.1.23', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1ea706f1af85ddc7494772a000117ade, findElement {using=css selector, value=select[data-maxamount='3']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53097}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53097/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1ea706f1af85ddc7494772a000117ade 
+2021-12-02 22:28:09,851 ERROR [Log] go_to_favorite_page_add_and_delete() Failed! with cause: Expected condition failed: waiting for visibility of element located by By.cssSelector: a[class='logo_gg imglink logo-small'] (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '192.168.1.23', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53097}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53097/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1ea706f1af85ddc7494772a000117ade 
+2021-12-02 22:30:08,199 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-02 22:30:25,629 ERROR [Log] select_favorite_products_and_go_to_product() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"h1[class='cart-title cart-header-title']"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '192.168.1.23', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [270e2dae91caf3f0d3f3b4d9f869ca8a, findElement {using=css selector, value=h1[class='cart-title cart-header-title']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53247}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53247/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 270e2dae91caf3f0d3f3b4d9f869ca8a 
+2021-12-02 22:30:25,674 ERROR [Log] add_cart_product_and_add_adress() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"select[data-maxamount='3']"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '192.168.1.23', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [270e2dae91caf3f0d3f3b4d9f869ca8a, findElement {using=css selector, value=select[data-maxamount='3']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53247}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53247/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 270e2dae91caf3f0d3f3b4d9f869ca8a 
+2021-12-02 22:30:30,955 ERROR [Log] go_to_favorite_page_add_and_delete() Failed! with cause: Expected condition failed: waiting for visibility of element located by By.cssSelector: a[class='logo_gg imglink logo-small'] (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '192.168.1.23', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53247}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53247/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 270e2dae91caf3f0d3f3b4d9f869ca8a 
+2021-12-02 22:33:35,451 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-02 22:33:51,338 ERROR [Log] select_favorite_products_and_go_to_product() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"h1[class='cart-title cart-header-title']"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '192.168.1.23', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8dc45dbe45fa737ad649e73b16aa2ef2, findElement {using=css selector, value=h1[class='cart-title cart-header-title']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53438}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53438/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8dc45dbe45fa737ad649e73b16aa2ef2 
+2021-12-02 22:33:51,384 ERROR [Log] add_cart_product_and_add_adress() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"select[data-maxamount='3']"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '192.168.1.23', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8dc45dbe45fa737ad649e73b16aa2ef2, findElement {using=css selector, value=select[data-maxamount='3']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53438}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53438/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8dc45dbe45fa737ad649e73b16aa2ef2 
+2021-12-02 22:33:56,646 ERROR [Log] go_to_favorite_page_add_and_delete() Failed! with cause: Expected condition failed: waiting for visibility of element located by By.cssSelector: a[class='logo_gg imglink logo-small'] (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '192.168.1.23', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53438}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53438/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8dc45dbe45fa737ad649e73b16aa2ef2 
+2021-12-02 22:35:10,332 ERROR [Log] login_and_searh_a_product() Failed! with cause: Expected condition failed: waiting for visibility of element located by By.cssSelector: a[data-cy='header-login-button'] (tried for 3 second(s) with 500 milliseconds interval)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '192.168.1.23', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53541}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53541/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8a70b7edc4d7b1c25163440939cac649 
+2021-12-02 22:35:10,367 ERROR [Log] select_favorite_products_and_go_to_product() Failed! with cause: Cannot invoke "com.gittigidiyor.study.page.ProductsPage.scrollDownClick()" because "this.productsPage" is null 
+2021-12-02 22:35:10,400 ERROR [Log] add_cart_product_and_add_adress() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"select[data-maxamount='3']"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '192.168.1.23', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8a70b7edc4d7b1c25163440939cac649, findElement {using=css selector, value=select[data-maxamount='3']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53541}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53541/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8a70b7edc4d7b1c25163440939cac649 
+2021-12-02 22:35:36,092 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-02 22:35:51,991 ERROR [Log] select_favorite_products_and_go_to_product() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"h1[class='cart-title cart-header-title']"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '192.168.1.23', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [76beb52d56016b05f059d44b18f4bb14, findElement {using=css selector, value=h1[class='cart-title cart-header-title']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53601}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53601/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 76beb52d56016b05f059d44b18f4bb14 
+2021-12-02 22:35:52,036 ERROR [Log] add_cart_product_and_add_adress() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"select[data-maxamount='3']"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '192.168.1.23', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [76beb52d56016b05f059d44b18f4bb14, findElement {using=css selector, value=select[data-maxamount='3']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53601}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53601/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 76beb52d56016b05f059d44b18f4bb14 
+2021-12-02 22:35:57,270 ERROR [Log] go_to_favorite_page_add_and_delete() Failed! with cause: Expected condition failed: waiting for visibility of element located by By.cssSelector: a[class='logo_gg imglink logo-small'] (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '192.168.1.23', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53601}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53601/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 76beb52d56016b05f059d44b18f4bb14 
+2021-12-02 22:36:44,770 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-02 22:37:02,229 ERROR [Log] select_favorite_products_and_go_to_product() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"h1[class='cart-title cart-header-title']"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '192.168.1.23', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [37be243f616c2bcf017880f155c062b9, findElement {using=css selector, value=h1[class='cart-title cart-header-title']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53707}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53707/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 37be243f616c2bcf017880f155c062b9 
+2021-12-02 22:37:02,277 ERROR [Log] add_cart_product_and_add_adress() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"select[data-maxamount='3']"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '192.168.1.23', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [37be243f616c2bcf017880f155c062b9, findElement {using=css selector, value=select[data-maxamount='3']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53707}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53707/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 37be243f616c2bcf017880f155c062b9 
+2021-12-02 22:37:07,559 ERROR [Log] go_to_favorite_page_add_and_delete() Failed! with cause: Expected condition failed: waiting for visibility of element located by By.cssSelector: a[class='logo_gg imglink logo-small'] (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '192.168.1.23', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53707}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53707/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 37be243f616c2bcf017880f155c062b9 
+2021-12-02 22:58:06,072 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-02 22:58:25,415 INFO  [Log] select_favorite_products_and_go_to_product() Passed! 
+2021-12-02 22:58:33,587 INFO  [Log] add_cart_product_and_add_adress() Passed! 
+2021-12-02 22:58:42,151 INFO  [Log] go_to_favorite_page_add_and_delete() Passed! 
+2021-12-02 23:12:21,809 ERROR [Log] login_and_searh_a_product() Failed! with cause: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=96.0.4664.45)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '192.168.1.23', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [67721deb2cdfe26246a8db673fb464df, findElement {using=css selector, value=button[class='style__StyledTab-v9cpf6-1 xWmCe']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:54226}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:54226/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 67721deb2cdfe26246a8db673fb464df 
+2021-12-02 23:12:21,828 ERROR [Log] select_favorite_products_and_go_to_product() Failed! with cause: Cannot invoke "com.gittigidiyor.study.page.ProductsPage.scrollDownClick()" because "this.productsPage" is null 
+2021-12-02 23:12:21,837 ERROR [Log] add_cart_product_and_add_adress() Failed! with cause: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=96.0.4664.45)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '192.168.1.23', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [67721deb2cdfe26246a8db673fb464df, findElement {using=css selector, value=select[data-maxamount='3']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:54226}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:54226/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 67721deb2cdfe26246a8db673fb464df 
+2021-12-02 23:16:51,394 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-02 23:17:09,014 INFO  [Log] select_favorite_products_and_go_to_product() Passed! 
+2021-12-02 23:17:17,714 INFO  [Log] add_cart_product_and_add_adress() Passed! 
+2021-12-02 23:17:26,458 INFO  [Log] go_to_favorite_page_add_and_delete() Passed! 
+2021-12-03 05:44:49,941 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-03 05:44:49,949 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 05:45:08,695 INFO  [Log] select_favorite_products_and_go_to_product() Passed! 
+2021-12-03 05:45:17,087 INFO  [Log] add_cart_product_and_add_adress() Passed! 
+2021-12-03 05:45:25,390 INFO  [Log] go_to_favorite_page_add_and_delete() Passed! 
+2021-12-03 10:29:03,291 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-03 10:29:03,295 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 10:29:17,667 INFO  [Log] select_favorite_products_and_go_to_product() Passed! 
+2021-12-03 10:29:17,718 ERROR [Log] add_cart_product_and_add_adress() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"select[data-maxamount='3']"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '10.254.158.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [036d0a9c58eb80e68e1b45cfcc2e754b, findElement {using=css selector, value=select[data-maxamount='3']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58381}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58381/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 036d0a9c58eb80e68e1b45cfcc2e754b 
+2021-12-03 10:29:23,022 INFO  [Log] go_to_favorite_page_add_and_delete() Passed! 
+2021-12-03 10:32:52,867 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-03 10:32:52,871 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 10:33:06,936 INFO  [Log] select_favorite_products_and_go_to_product() Passed! 
+2021-12-03 10:33:07,048 ERROR [Log] add_cart_product_and_add_adress() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"select[data-maxamount='3']"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '10.254.158.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1cb2b3edcc2c7cde6a68c8a2ab9fdcc4, findElement {using=css selector, value=select[data-maxamount='3']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58616}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58616/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1cb2b3edcc2c7cde6a68c8a2ab9fdcc4 
+2021-12-03 10:33:11,839 INFO  [Log] go_to_favorite_page_add_and_delete() Passed! 
+2021-12-03 10:36:14,099 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-03 10:36:14,101 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 10:36:28,006 INFO  [Log] select_favorite_products_and_go_to_product() Passed! 
+2021-12-03 10:36:28,113 ERROR [Log] add_cart_product_and_add_adress() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"select[data-maxamount='3']"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '10.254.158.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9018be3cfc763330275aab987875f29c, findElement {using=css selector, value=select[data-maxamount='3']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58773}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58773/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9018be3cfc763330275aab987875f29c 
+2021-12-03 10:36:33,178 INFO  [Log] go_to_favorite_page_add_and_delete() Passed! 
+2021-12-03 10:37:31,695 ERROR [Log] login_and_searh_a_product() Failed! with cause: Expected condition failed: waiting for visibility of element located by By.cssSelector: a[data-cy='header-login-button'] (tried for 3 second(s) with 500 milliseconds interval)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '10.254.158.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58930}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58930/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 592036744821b3c50c4b7cc2b2e52017 
+2021-12-03 10:37:31,710 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 10:37:31,720 ERROR [Log] select_favorite_products_and_go_to_product() Failed! with cause: Cannot invoke "com.gittigidiyor.study.page.ProductsPage.scrollDownClick()" because "this.productsPage" is null 
+2021-12-03 10:39:01,465 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-03 10:39:01,469 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 10:39:15,941 INFO  [Log] select_favorite_products_and_go_to_product() Passed! 
+2021-12-03 10:39:17,111 ERROR [Log] add_cart_product_and_add_adress() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"select[data-maxamount='3']"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '10.254.158.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [10427cab131ba35f36b6369318e4a7a6, findElement {using=css selector, value=select[data-maxamount='3']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59005}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59005/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 10427cab131ba35f36b6369318e4a7a6 
+2021-12-03 10:39:21,896 INFO  [Log] go_to_favorite_page_add_and_delete() Passed! 
+2021-12-03 10:43:42,332 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-03 10:43:42,335 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 10:43:56,028 INFO  [Log] select_favorite_products_and_go_to_product() Passed! 
+2021-12-03 10:43:56,087 ERROR [Log] add_cart_product_and_add_adress() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"select[data-maxamount='3']"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '10.254.158.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c296f990b2e6058035ee5d5b608ff1fa, findElement {using=css selector, value=select[data-maxamount='3']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59246}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59246/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c296f990b2e6058035ee5d5b608ff1fa 
+2021-12-03 10:44:01,142 INFO  [Log] go_to_favorite_page_add_and_delete() Passed! 
+2021-12-03 11:21:40,127 ERROR [Log] login_and_searh_a_product() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"button[class='style__StyledTab-v9cpf6-1 xWmCe']"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '10.254.158.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b3e96889439981069423d92392d3b3a0, findElement {using=css selector, value=button[class='style__StyledTab-v9cpf6-1 xWmCe']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59999}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59999/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b3e96889439981069423d92392d3b3a0 
+2021-12-03 11:21:40,134 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 11:21:40,136 ERROR [Log] select_favorite_products_and_go_to_product() Failed! with cause: Cannot invoke "com.gittigidiyor.study.page.ProductsPage.scrollDownClick()" because "this.productsPage" is null 
+2021-12-03 11:21:40,175 ERROR [Log] add_cart_product_and_add_adress() Failed! with cause: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#invalid_selector_exception
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '10.254.158.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b3e96889439981069423d92392d3b3a0, findElement {using=css selector, value=String.format('option[value='%d']',index}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59999}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59999/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b3e96889439981069423d92392d3b3a0 
+2021-12-03 11:21:41,242 ERROR [Log] go_to_favorite_page_add_and_delete() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"div[title='Hesabım'] div[class='gekhq4-4 egoSnI']"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '10.254.158.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b3e96889439981069423d92392d3b3a0, findElement {using=css selector, value=div[title='Hesabım'] div[class='gekhq4-4 egoSnI']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59999}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59999/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b3e96889439981069423d92392d3b3a0 
+2021-12-03 11:22:05,968 ERROR [Log] login_and_searh_a_product() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"button[class='style__StyledTab-v9cpf6-1 xWmCe']"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '10.254.158.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [85acc5fb651e92af7168566ec4bf5dbe, findElement {using=css selector, value=button[class='style__StyledTab-v9cpf6-1 xWmCe']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60116}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60116/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 85acc5fb651e92af7168566ec4bf5dbe 
+2021-12-03 11:22:05,977 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 11:22:05,979 ERROR [Log] select_favorite_products_and_go_to_product() Failed! with cause: Cannot invoke "com.gittigidiyor.study.page.ProductsPage.scrollDownClick()" because "this.productsPage" is null 
+2021-12-03 11:22:06,001 ERROR [Log] add_cart_product_and_add_adress() Failed! with cause: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#invalid_selector_exception
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '10.254.158.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [85acc5fb651e92af7168566ec4bf5dbe, findElement {using=css selector, value=String.format('option[value='%d']',index}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60116}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60116/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 85acc5fb651e92af7168566ec4bf5dbe 
+2021-12-03 11:22:07,078 ERROR [Log] go_to_favorite_page_add_and_delete() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"div[title='Hesabım'] div[class='gekhq4-4 egoSnI']"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '10.254.158.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [85acc5fb651e92af7168566ec4bf5dbe, findElement {using=css selector, value=div[title='Hesabım'] div[class='gekhq4-4 egoSnI']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60116}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60116/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 85acc5fb651e92af7168566ec4bf5dbe 
+2021-12-03 11:22:35,438 ERROR [Log] login_and_searh_a_product() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"button[class='style__StyledTab-v9cpf6-1 xWmCe']"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '10.254.158.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6e7acabee27780d22a3cf64de1ede859, findElement {using=css selector, value=button[class='style__StyledTab-v9cpf6-1 xWmCe']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60193}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60193/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6e7acabee27780d22a3cf64de1ede859 
+2021-12-03 11:22:35,446 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 11:22:35,447 ERROR [Log] select_favorite_products_and_go_to_product() Failed! with cause: Cannot invoke "com.gittigidiyor.study.page.ProductsPage.scrollDownClick()" because "this.productsPage" is null 
+2021-12-03 11:22:35,468 ERROR [Log] add_cart_product_and_add_adress() Failed! with cause: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#invalid_selector_exception
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '10.254.158.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6e7acabee27780d22a3cf64de1ede859, findElement {using=css selector, value=String.format('option[value='%d']',index}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60193}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60193/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6e7acabee27780d22a3cf64de1ede859 
+2021-12-03 11:22:36,356 ERROR [Log] go_to_favorite_page_add_and_delete() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"div[title='Hesabım'] div[class='gekhq4-4 egoSnI']"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '10.254.158.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6e7acabee27780d22a3cf64de1ede859, findElement {using=css selector, value=div[title='Hesabım'] div[class='gekhq4-4 egoSnI']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60193}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60193/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6e7acabee27780d22a3cf64de1ede859 
+2021-12-03 11:32:19,936 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-03 11:32:19,942 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 11:32:33,823 INFO  [Log] select_favorite_products_and_go_to_product() Passed! 
+2021-12-03 11:32:33,936 ERROR [Log] add_cart_product_and_add_adress() Failed! with cause: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#invalid_selector_exception
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '10.254.158.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [56dc1d40e772590d0a92b3b17d39b5bf, findElement {using=css selector, value=String.format('option[value='%d']',index}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:49817}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49817/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 56dc1d40e772590d0a92b3b17d39b5bf 
+2021-12-03 11:32:38,831 INFO  [Log] go_to_favorite_page_add_and_delete() Passed! 
+2021-12-03 12:46:00,720 ERROR [Log] login_and_searh_a_product() Failed! with cause: Expected condition failed: waiting for visibility of element located by By.cssSelector: a[data-cy='header-login-button'] (tried for 3 second(s) with 500 milliseconds interval)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '10.254.158.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50330}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50330/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d8f9b82c2c8bf146affd3348811a59e1 
+2021-12-03 12:46:00,729 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 12:46:00,732 ERROR [Log] select_favorite_products_and_go_to_product() Failed! with cause: Cannot invoke "com.gittigidiyor.study.page.ProductsPage.scrollDownClick()" because "this.productsPage" is null 
+2021-12-03 12:46:00,753 ERROR [Log] add_cart_product_and_add_adress() Failed! with cause: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#invalid_selector_exception
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '10.254.158.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d8f9b82c2c8bf146affd3348811a59e1, findElement {using=css selector, value=String.format('option[value='%d']',index}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50330}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50330/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d8f9b82c2c8bf146affd3348811a59e1 
+2021-12-03 12:46:25,712 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-03 12:46:25,714 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 12:46:40,296 INFO  [Log] select_favorite_products_and_go_to_product() Passed! 
+2021-12-03 12:46:40,448 ERROR [Log] add_cart_product_and_add_adress() Failed! with cause: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#invalid_selector_exception
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '10.254.158.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ef0752302d4edc10edaab6b375e115e9, findElement {using=css selector, value=String.format('option[value='%d']',index}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50397}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50397/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ef0752302d4edc10edaab6b375e115e9 
+2021-12-03 12:46:45,905 INFO  [Log] go_to_favorite_page_add_and_delete() Passed! 
+2021-12-03 13:01:21,213 ERROR [Log] login_and_searh_a_product() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"button[class='style__StyledTab-v9cpf6-1 xWmCe']"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '10.254.158.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [605999f1c0733a39d983eae8dad2f0ac, findElement {using=css selector, value=button[class='style__StyledTab-v9cpf6-1 xWmCe']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50109}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50109/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 605999f1c0733a39d983eae8dad2f0ac 
+2021-12-03 13:01:21,226 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 13:01:21,228 ERROR [Log] select_favorite_products_and_go_to_product() Failed! with cause: Cannot invoke "com.gittigidiyor.study.page.ProductsPage.scrollDownClick()" because "this.productsPage" is null 
+2021-12-03 13:01:24,387 ERROR [Log] add_cart_product_and_add_adress() Failed! with cause: Expected condition failed: waiting for visibility of element located by By.cssSelector: select[class='amount'] (tried for 3 second(s) with 500 milliseconds interval)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '10.254.158.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50109}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50109/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 605999f1c0733a39d983eae8dad2f0ac 
+2021-12-03 13:01:24,985 ERROR [Log] go_to_favorite_page_add_and_delete() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"div[title='Hesabım'] div[class='gekhq4-4 egoSnI']"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '10.254.158.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [605999f1c0733a39d983eae8dad2f0ac, findElement {using=css selector, value=div[title='Hesabım'] div[class='gekhq4-4 egoSnI']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50109}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50109/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 605999f1c0733a39d983eae8dad2f0ac 
+2021-12-03 13:01:44,704 ERROR [Log] login_and_searh_a_product() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"button[class='style__StyledTab-v9cpf6-1 xWmCe']"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '10.254.158.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1d1eac0e220541625657959e3cb3f5f9, findElement {using=css selector, value=button[class='style__StyledTab-v9cpf6-1 xWmCe']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50190}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50190/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1d1eac0e220541625657959e3cb3f5f9 
+2021-12-03 13:01:44,711 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 13:01:44,714 ERROR [Log] select_favorite_products_and_go_to_product() Failed! with cause: Cannot invoke "com.gittigidiyor.study.page.ProductsPage.scrollDownClick()" because "this.productsPage" is null 
+2021-12-03 13:04:13,437 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-03 13:04:13,439 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 13:04:29,531 INFO  [Log] select_favorite_products_and_go_to_product() Passed! 
+2021-12-03 13:04:32,663 ERROR [Log] add_cart_product_and_add_adress() Failed! with cause: Expected condition failed: waiting for visibility of element located by By.cssSelector: select[class='amount'] (tried for 3 second(s) with 500 milliseconds interval)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '10.254.158.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:49749}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49749/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a32b4fdea73664a9d7ca4ed7ccbbf203 
+2021-12-03 13:04:37,519 INFO  [Log] go_to_favorite_page_add_and_delete() Passed! 
+2021-12-03 13:07:27,764 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-03 13:07:27,766 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 13:07:41,857 INFO  [Log] select_favorite_products_and_go_to_product() Passed! 
+2021-12-03 13:07:45,057 ERROR [Log] add_cart_product_and_add_adress() Failed! with cause: Expected condition failed: waiting for visibility of element located by By.cssSelector: select[class='amount'] (tried for 3 second(s) with 500 milliseconds interval)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '10.254.158.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50010}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50010/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ff3a993eafac613a2bdf836cc1b38f2e 
+2021-12-03 13:07:49,231 ERROR [Log] go_to_favorite_page_add_and_delete() Failed! with cause: Expected condition failed: waiting for visibility of element located by By.cssSelector: a[title='Favorilerim'] (tried for 3 second(s) with 500 milliseconds interval)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '10.254.158.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50010}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50010/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ff3a993eafac613a2bdf836cc1b38f2e 
+2021-12-03 13:08:26,909 ERROR [Log] login_and_searh_a_product() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"button[class='style__StyledTab-v9cpf6-1 xWmCe']"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '10.254.158.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e2c2e91cdef34fe42ade20a9b56a795a, findElement {using=css selector, value=button[class='style__StyledTab-v9cpf6-1 xWmCe']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50140}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50140/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e2c2e91cdef34fe42ade20a9b56a795a 
+2021-12-03 13:08:26,917 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 13:08:26,919 ERROR [Log] select_favorite_products_and_go_to_product() Failed! with cause: Cannot invoke "com.gittigidiyor.study.page.ProductsPage.scrollDownClick()" because "this.productsPage" is null 
+2021-12-03 13:08:30,069 ERROR [Log] add_cart_product_and_add_adress() Failed! with cause: Expected condition failed: waiting for visibility of element located by By.cssSelector: select[class='amount'] (tried for 3 second(s) with 500 milliseconds interval)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '10.254.158.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50140}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50140/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e2c2e91cdef34fe42ade20a9b56a795a 
+2021-12-03 13:08:31,095 ERROR [Log] go_to_favorite_page_add_and_delete() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"div[title='Hesabım'] div[class='gekhq4-4 egoSnI']"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '10.254.158.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e2c2e91cdef34fe42ade20a9b56a795a, findElement {using=css selector, value=div[title='Hesabım'] div[class='gekhq4-4 egoSnI']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50140}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50140/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e2c2e91cdef34fe42ade20a9b56a795a 
+2021-12-03 13:09:16,554 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-03 13:09:16,556 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 13:09:29,514 INFO  [Log] select_favorite_products_and_go_to_product() Passed! 
+2021-12-03 13:09:32,918 ERROR [Log] add_cart_product_and_add_adress() Failed! with cause: Expected condition failed: waiting for visibility of element located by By.cssSelector: select[class='amount'] (tried for 3 second(s) with 500 milliseconds interval)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '192.168.43.128', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50207}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50207/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 50ca809755bb62a97bd31748948f197f 
+2021-12-03 13:09:37,045 ERROR [Log] go_to_favorite_page_add_and_delete() Failed! with cause: Expected condition failed: waiting for visibility of element located by By.cssSelector: a[title='Favorilerim'] (tried for 3 second(s) with 500 milliseconds interval)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '192.168.43.128', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50207}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50207/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 50ca809755bb62a97bd31748948f197f 
+2021-12-03 13:12:49,965 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-03 13:12:49,968 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 13:13:05,224 INFO  [Log] select_favorite_products_and_go_to_product() Passed! 
+2021-12-03 13:13:05,280 ERROR [Log] add_cart_product_and_add_adress() Failed! with cause: invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#invalid_selector_exception
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '192.168.43.128', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a41bfe4f45d2e4f997ed3e77c3107a75, findElement {using=css selector, value=String.format('option[value='%d']',index}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50386}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50386/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a41bfe4f45d2e4f997ed3e77c3107a75 
+2021-12-03 13:13:11,034 INFO  [Log] go_to_favorite_page_add_and_delete() Passed! 
+2021-12-03 13:17:07,587 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-03 13:17:07,590 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 13:17:20,952 INFO  [Log] select_favorite_products_and_go_to_product() Passed! 
+2021-12-03 13:17:21,364 ERROR [Log] add_cart_product_and_add_adress() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"select[data-id='514140806']"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '192.168.43.128', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [955aad066cc61ae652c85992418c4bb9, findElement {using=css selector, value=select[data-id='514140806']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50676}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50676/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 955aad066cc61ae652c85992418c4bb9 
+2021-12-03 13:17:27,865 INFO  [Log] go_to_favorite_page_add_and_delete() Passed! 
+2021-12-03 13:19:55,207 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-03 13:19:55,211 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 13:20:10,096 INFO  [Log] select_favorite_products_and_go_to_product() Passed! 
+2021-12-03 13:20:10,148 ERROR [Log] add_cart_product_and_add_adress() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"select[data-id='514140806']"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '192.168.43.128', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [bf1959d5078d760d90b46b5109304127, findElement {using=css selector, value=select[data-id='514140806']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50990}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50990/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bf1959d5078d760d90b46b5109304127 
+2021-12-03 13:20:16,065 INFO  [Log] go_to_favorite_page_add_and_delete() Passed! 
+2021-12-03 13:21:04,475 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-03 13:21:04,477 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 13:21:18,087 INFO  [Log] select_favorite_products_and_go_to_product() Passed! 
+2021-12-03 13:21:18,185 ERROR [Log] add_cart_product_and_add_adress() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"select[data-id='514140806']"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '192.168.43.128', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1f3d98e3d65d2d9fc645b0815ac739a1, findElement {using=css selector, value=select[data-id='514140806']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51127}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51127/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1f3d98e3d65d2d9fc645b0815ac739a1 
+2021-12-03 13:21:23,781 INFO  [Log] go_to_favorite_page_add_and_delete() Passed! 
+2021-12-03 13:22:57,002 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-03 13:22:57,005 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 13:23:10,478 INFO  [Log] select_favorite_products_and_go_to_product() Passed! 
+2021-12-03 13:23:10,538 ERROR [Log] add_cart_product_and_add_adress() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"select[data-id='514140806']"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '192.168.43.128', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9b83d98a0fa7bfe5c6180968aeb30cab, findElement {using=css selector, value=select[data-id='514140806']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51289}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51289/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9b83d98a0fa7bfe5c6180968aeb30cab 
+2021-12-03 13:23:15,755 INFO  [Log] go_to_favorite_page_add_and_delete() Passed! 
+2021-12-03 13:24:54,460 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-03 13:24:54,466 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 13:25:07,885 INFO  [Log] select_favorite_products_and_go_to_product() Passed! 
+2021-12-03 13:25:11,022 ERROR [Log] add_cart_product_and_add_adress() Failed! with cause: Expected condition failed: waiting for visibility of element located by By.cssSelector: option[value='1'] (tried for 3 second(s) with 500 milliseconds interval)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '192.168.43.128', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51443}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51443/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 10f2f817c4d0ace49a7ddc5da9d71ff4 
+2021-12-03 13:25:13,287 ERROR [Log] go_to_favorite_page_add_and_delete() Failed! with cause: Index 3 out of bounds for length 3 
+2021-12-03 13:36:46,331 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-03 13:36:46,336 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 13:37:00,214 INFO  [Log] select_favorite_products_and_go_to_product() Passed! 
+2021-12-03 13:37:00,217 WARN  [Log] add_cart_product_and_add_adress() Disabled for Optional[We have bugs in this test section] 
+2021-12-03 13:37:00,218 WARN  [Log] go_to_favorite_page_add_and_delete() Disabled for Optional[We have bugs in this test section] 
+2021-12-03 13:50:56,848 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-03 13:50:56,851 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 13:51:11,241 INFO  [Log] select_favorite_products_and_go_to_product() Passed! 
+2021-12-03 13:51:11,243 WARN  [Log] add_cart_product_and_add_adress() Disabled for Optional[We have bugs in this test section] 
+2021-12-03 13:51:11,244 WARN  [Log] go_to_favorite_page_add_and_delete() Disabled for Optional[We have bugs in this test section] 
+2021-12-03 13:52:25,103 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-03 13:52:25,108 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 13:52:39,164 INFO  [Log] select_favorite_products_and_go_to_product() Passed! 
+2021-12-03 13:52:39,165 WARN  [Log] add_cart_product_and_add_adress() Disabled for Optional[We have bugs in this test section] 
+2021-12-03 13:52:39,166 WARN  [Log] go_to_favorite_page_add_and_delete() Disabled for Optional[We have bugs in this test section] 
+2021-12-03 13:56:19,789 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-03 13:56:19,791 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 13:56:34,681 INFO  [Log] select_favorite_products_and_go_to_product() Passed! 
+2021-12-03 13:56:37,835 ERROR [Log] add_cart_product_and_add_adress() Failed! with cause: Expected condition failed: waiting for visibility of element located by By.cssSelector: option[value='1'] (tried for 3 second(s) with 500 milliseconds interval)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '192.168.43.128', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53153}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53153/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 678e01808f9e0745f46e20aa691058f8 
+2021-12-03 13:56:37,846 WARN  [Log] go_to_favorite_page_add_and_delete() Disabled for Optional[We have bugs in this test section] 
+2021-12-03 13:57:55,794 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-03 13:57:55,797 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 13:58:11,360 ERROR [Log] select_favorite_products_and_go_to_product() Failed! with cause: element click intercepted: Element <div class="basket-icon-title hidden-m hidden-t">...</div> is not clickable at point (1525, 171). Other element would receive the click: <a href="https://www.gittigidiyor.com/sepetim" class="header-cart-hidden-link" rel="nofollow"></a>
+  (Session info: chrome=96.0.4664.45)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '192.168.43.128', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e31a818ce26dc52d4caf750f28b96069, clickElement {id=19a4d8cd-de2c-4aea-b60a-3551c1a0bec4}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53265}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53265/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (e31a818ce26dc52d4caf750f28b96069)] -> css selector: div[class='basket-icon-title hidden-m hidden-t']]
+Session ID: e31a818ce26dc52d4caf750f28b96069 
+2021-12-03 13:58:14,490 ERROR [Log] add_cart_product_and_add_adress() Failed! with cause: Expected condition failed: waiting for visibility of element located by By.cssSelector: option[value='1'] (tried for 3 second(s) with 500 milliseconds interval)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '192.168.43.128', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53265}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53265/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e31a818ce26dc52d4caf750f28b96069 
+2021-12-03 13:58:14,494 WARN  [Log] go_to_favorite_page_add_and_delete() Disabled for Optional[We have bugs in this test section] 
+2021-12-03 13:59:55,344 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-03 13:59:55,346 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 14:00:14,239 ERROR [Log] select_favorite_products_and_go_to_product() Failed! with cause: element click intercepted: Element <div class="basket-icon-title hidden-m hidden-t">...</div> is not clickable at point (1525, 171). Other element would receive the click: <a href="https://www.gittigidiyor.com/sepetim" class="header-cart-hidden-link" rel="nofollow"></a>
+  (Session info: chrome=96.0.4664.45)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '192.168.43.128', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c8caa295435ced042d48401cc912b312, clickElement {id=32ff7cb0-8fc1-43b9-b29d-3db35c69c6a4}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53366}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53366/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (c8caa295435ced042d48401cc912b312)] -> css selector: div[class='basket-icon-title hidden-m hidden-t']]
+Session ID: c8caa295435ced042d48401cc912b312 
+2021-12-03 14:00:17,365 ERROR [Log] add_cart_product_and_add_adress() Failed! with cause: Expected condition failed: waiting for visibility of element located by By.cssSelector: option[value='1'] (tried for 3 second(s) with 500 milliseconds interval)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '192.168.43.128', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53366}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53366/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c8caa295435ced042d48401cc912b312 
+2021-12-03 14:00:17,372 WARN  [Log] go_to_favorite_page_add_and_delete() Disabled for Optional[We have bugs in this test section] 
+2021-12-03 14:02:52,644 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-03 14:02:52,647 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 14:03:10,823 ERROR [Log] select_favorite_products_and_go_to_product() Failed! with cause: element click intercepted: Element <div class="basket-icon-title hidden-m hidden-t">...</div> is not clickable at point (1525, 171). Other element would receive the click: <a href="https://www.gittigidiyor.com/sepetim" class="header-cart-hidden-link" rel="nofollow"></a>
+  (Session info: chrome=96.0.4664.45)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '192.168.43.128', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d44a95409bdd013eb1b646df999e6150, clickElement {id=41d50179-4eff-4b82-a7d2-33b9d116b42b}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53532}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53532/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (d44a95409bdd013eb1b646df999e6150)] -> css selector: div[class='basket-icon-title hidden-m hidden-t']]
+Session ID: d44a95409bdd013eb1b646df999e6150 
+2021-12-03 14:03:13,985 ERROR [Log] add_cart_product_and_add_adress() Failed! with cause: Expected condition failed: waiting for visibility of element located by By.cssSelector: option[value='1'] (tried for 3 second(s) with 500 milliseconds interval)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '192.168.43.128', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53532}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53532/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d44a95409bdd013eb1b646df999e6150 
+2021-12-03 14:03:13,988 WARN  [Log] go_to_favorite_page_add_and_delete() Disabled for Optional[We have bugs in this test section] 
+2021-12-03 14:05:47,902 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-03 14:05:47,904 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 14:06:06,235 ERROR [Log] select_favorite_products_and_go_to_product() Failed! with cause: element click intercepted: Element <a href="https://www.gittigidiyor.com/sepetim" class="dIB" rel="nofollow">...</a> is not clickable at point (1497, 171). Other element would receive the click: <a href="https://www.gittigidiyor.com/sepetim" class="header-cart-hidden-link" rel="nofollow"></a>
+  (Session info: chrome=96.0.4664.45)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '192.168.43.128', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [153d1a424c8657b33f748705ee38c9b6, clickElement {id=eed8b4b2-8c4b-4dd2-9a2c-3d06150a71fd}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59311}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59311/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (153d1a424c8657b33f748705ee38c9b6)] -> css selector: [href='https://www.gittigidiyor.com/sepetim']]
+Session ID: 153d1a424c8657b33f748705ee38c9b6 
+2021-12-03 14:06:09,393 ERROR [Log] add_cart_product_and_add_adress() Failed! with cause: Expected condition failed: waiting for visibility of element located by By.cssSelector: option[value='1'] (tried for 3 second(s) with 500 milliseconds interval)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '192.168.43.128', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59311}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59311/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 153d1a424c8657b33f748705ee38c9b6 
+2021-12-03 14:06:09,397 WARN  [Log] go_to_favorite_page_add_and_delete() Disabled for Optional[We have bugs in this test section] 
+2021-12-03 14:07:10,861 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-03 14:07:10,867 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 14:07:28,775 ERROR [Log] select_favorite_products_and_go_to_product() Failed! with cause: element click intercepted: Element <a href="https://www.gittigidiyor.com/sepetim" class="dIB" rel="nofollow">...</a> is not clickable at point (1497, 171). Other element would receive the click: <a href="https://www.gittigidiyor.com/sepetim" class="header-cart-hidden-link" rel="nofollow"></a>
+  (Session info: chrome=96.0.4664.45)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '192.168.43.128', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [bf4c70fcf03ce50701d18363503f9474, clickElement {id=caaebe08-1cb9-4aa3-aa72-dd05d8bb7f47}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59416}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59416/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (bf4c70fcf03ce50701d18363503f9474)] -> css selector: [href='https://www.gittigidiyor.com/sepetim']]
+Session ID: bf4c70fcf03ce50701d18363503f9474 
+2021-12-03 14:07:31,936 ERROR [Log] add_cart_product_and_add_adress() Failed! with cause: Expected condition failed: waiting for visibility of element located by By.cssSelector: option[value='1'] (tried for 3 second(s) with 500 milliseconds interval)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '192.168.43.128', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59416}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59416/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bf4c70fcf03ce50701d18363503f9474 
+2021-12-03 14:07:31,941 WARN  [Log] go_to_favorite_page_add_and_delete() Disabled for Optional[We have bugs in this test section] 
+2021-12-03 14:09:37,831 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-03 14:09:37,833 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 14:09:57,857 INFO  [Log] select_favorite_products_and_go_to_product() Passed! 
+2021-12-03 14:10:05,922 INFO  [Log] add_cart_product_and_add_adress() Passed! 
+2021-12-03 14:10:05,923 WARN  [Log] go_to_favorite_page_add_and_delete() Disabled for Optional[We have bugs in this test section] 
+2021-12-03 14:10:56,988 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-03 14:10:56,993 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 14:11:18,383 INFO  [Log] select_favorite_products_and_go_to_product() Passed! 
+2021-12-03 14:11:26,810 INFO  [Log] add_cart_product_and_add_adress() Passed! 
+2021-12-03 14:11:33,828 INFO  [Log] go_to_favorite_page_add_and_delete() Passed! 
+2021-12-03 14:13:27,849 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-03 14:13:27,854 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 14:13:47,953 INFO  [Log] select_favorite_products_and_go_to_product() Passed! 
+2021-12-03 14:13:56,406 INFO  [Log] add_cart_product_and_add_adress() Passed! 
+2021-12-03 14:14:06,605 ERROR [Log] go_to_favorite_page_add_and_delete() Failed! with cause: Expected condition failed: waiting for visibility of element located by By.cssSelector: a[title='Çıkış'] (tried for 3 second(s) with 500 milliseconds interval)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '192.168.43.128', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59873}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59873/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 68d1d32de0c7c8d0802af27e650e225f 
+2021-12-03 14:15:15,751 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-03 14:15:15,753 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 14:15:35,223 INFO  [Log] select_favorite_products_and_go_to_product() Passed! 
+2021-12-03 14:15:44,160 INFO  [Log] add_cart_product_and_add_adress() Passed! 
+2021-12-03 14:15:52,108 INFO  [Log] go_to_favorite_page_add_and_delete() Passed! 
+2021-12-03 14:17:01,866 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-03 14:17:01,868 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 14:17:22,050 INFO  [Log] select_favorite_products_and_go_to_product() Passed! 
+2021-12-03 14:17:29,977 INFO  [Log] add_cart_product_and_add_adress() Passed! 
+2021-12-03 14:17:38,605 INFO  [Log] go_to_favorite_page_add_and_delete() Passed! 
+2021-12-03 14:20:11,250 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-03 14:20:11,257 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 14:20:29,436 INFO  [Log] select_favorite_products_and_go_to_product() Passed! 
+2021-12-03 14:20:36,771 INFO  [Log] add_cart_product_and_add_adress() Passed! 
+2021-12-03 14:20:44,725 INFO  [Log] go_to_favorite_page_add_and_delete() Passed! 
+2021-12-03 14:42:13,692 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-03 14:42:13,697 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 14:42:33,678 INFO  [Log] select_favorite_products_and_go_to_product() Passed! 
+2021-12-03 14:42:41,232 INFO  [Log] add_cart_product_and_add_adress() Passed! 
+2021-12-03 14:42:50,123 INFO  [Log] go_to_favorite_page_add_and_delete() Passed! 
+2021-12-03 14:45:58,333 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-03 14:45:58,335 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 14:46:16,395 INFO  [Log] select_favorite_products_and_go_to_product() Passed! 
+2021-12-03 14:46:22,615 INFO  [Log] add_cart_product_and_add_adress() Passed! 
+2021-12-03 14:46:32,069 ERROR [Log] go_to_favorite_page_add_and_delete() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"div[title='Hesabım'] div[class='gekhq4-4 egoSnI']"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '192.168.43.128', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ee500be66e0ef8946cc66635e8a415fd, findElement {using=css selector, value=div[title='Hesabım'] div[class='gekhq4-4 egoSnI']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60627}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60627/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ee500be66e0ef8946cc66635e8a415fd 
+2021-12-03 15:41:55,251 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-03 15:41:55,254 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 15:42:14,516 INFO  [Log] select_favorite_products_and_go_to_product() Passed! 
+2021-12-03 15:42:21,400 INFO  [Log] add_cart_product_and_add_adress() Passed! 
+2021-12-03 15:42:31,425 INFO  [Log] go_to_favorite_page_add_and_delete() Passed! 
+2021-12-03 16:17:11,980 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-03 16:17:11,984 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 16:17:40,899 INFO  [Log] select_favorite_products_and_go_to_product() Passed! 
+2021-12-03 16:17:55,259 INFO  [Log] add_cart_product_and_add_adress() Passed! 
+2021-12-03 16:18:13,704 INFO  [Log] go_to_favorite_page_add_and_delete() Passed! 
+2021-12-03 16:44:20,464 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-03 16:44:20,468 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 16:44:43,741 INFO  [Log] select_favorite_products_and_go_to_product() Passed! 
+2021-12-03 16:44:57,490 INFO  [Log] add_cart_product_and_add_adress() Passed! 
+2021-12-03 16:45:16,207 INFO  [Log] go_to_favorite_page_add_and_delete() Passed! 
+2021-12-03 16:54:35,936 ERROR [Log] login_and_searh_a_product() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"button[class='style__StyledTab-v9cpf6-1 xWmCe']"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '10.254.158.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a540b1fa3f027e923417b55e0f956fd5, findElement {using=css selector, value=button[class='style__StyledTab-v9cpf6-1 xWmCe']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62102}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62102/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a540b1fa3f027e923417b55e0f956fd5 
+2021-12-03 16:54:35,947 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 16:54:35,949 ERROR [Log] select_favorite_products_and_go_to_product() Failed! with cause: Cannot invoke "com.gittigidiyor.study.page.ProductsPage.scrollDownClick()" because "this.productsPage" is null 
+2021-12-03 16:54:39,057 ERROR [Log] add_cart_product_and_add_adress() Failed! with cause: Expected condition failed: waiting for visibility of element located by By.cssSelector: option[value='1'] (tried for 3 second(s) with 500 milliseconds interval)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '10.254.158.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62102}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62102/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a540b1fa3f027e923417b55e0f956fd5 
+2021-12-03 16:55:10,215 ERROR [Log] login_and_searh_a_product() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"button[class='style__StyledTab-v9cpf6-1 xWmCe']"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '10.254.158.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e171f53f0e257fe34a967e2938aec1c8, findElement {using=css selector, value=button[class='style__StyledTab-v9cpf6-1 xWmCe']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62196}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62196/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e171f53f0e257fe34a967e2938aec1c8 
+2021-12-03 16:55:10,220 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 16:55:10,222 ERROR [Log] select_favorite_products_and_go_to_product() Failed! with cause: Cannot invoke "com.gittigidiyor.study.page.ProductsPage.scrollDownClick()" because "this.productsPage" is null 
+2021-12-03 16:55:13,316 ERROR [Log] add_cart_product_and_add_adress() Failed! with cause: Expected condition failed: waiting for visibility of element located by By.cssSelector: option[value='1'] (tried for 3 second(s) with 500 milliseconds interval)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '10.254.158.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62196}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62196/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: e171f53f0e257fe34a967e2938aec1c8 
+2021-12-03 16:57:39,996 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-03 16:57:40,002 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 16:58:01,040 INFO  [Log] select_favorite_products_and_go_to_product() Passed! 
+2021-12-03 16:58:08,903 INFO  [Log] add_cart_product_and_add_adress() Passed! 
+2021-12-03 16:58:19,797 INFO  [Log] go_to_favorite_page_add_and_delete() Passed! 
+2021-12-03 17:06:49,479 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-03 17:06:49,483 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 17:07:06,889 ERROR [Log] select_favorite_products_and_go_to_product() Failed! with cause: element not interactable
+  (Session info: chrome=96.0.4664.45)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '172.20.10.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3c171d9538a4a7a139e9d05de8f05b9a, clickElement {id=fb347ae2-d5ed-44c5-b094-c1a135f55aaf}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50086}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50086/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (3c171d9538a4a7a139e9d05de8f05b9a)] -> css selector: a[class='gg-ui-btn-default padding-none']]
+Session ID: 3c171d9538a4a7a139e9d05de8f05b9a 
+2021-12-03 17:07:10,064 ERROR [Log] add_cart_product_and_add_adress() Failed! with cause: Expected condition failed: waiting for visibility of element located by By.cssSelector: option[value='1'] (tried for 3 second(s) with 500 milliseconds interval)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '172.20.10.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50086}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50086/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3c171d9538a4a7a139e9d05de8f05b9a 
+2021-12-03 17:07:15,271 ERROR [Log] go_to_favorite_page_add_and_delete() Failed! with cause: Expected condition failed: waiting for visibility of element located by By.cssSelector: a[class='logo_gg imglink logo-small'] (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '172.20.10.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50086}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50086/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3c171d9538a4a7a139e9d05de8f05b9a 
+2021-12-03 17:08:45,413 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-03 17:08:45,417 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 17:09:03,581 INFO  [Log] select_favorite_products_and_go_to_product() Passed! 
+2021-12-03 17:09:10,127 INFO  [Log] add_cart_product_and_add_adress() Passed! 
+2021-12-03 17:09:20,500 INFO  [Log] go_to_favorite_page_add_and_delete() Passed! 
+2021-12-03 17:20:20,035 ERROR [Log] login_and_searh_a_product() Failed! with cause: no such element: Unable to locate element: {"method":"css selector","selector":"button[class='style__StyledTab-v9cpf6-1 xWmCe']"}
+  (Session info: chrome=96.0.4664.45)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '10.254.158.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0bd587e7aebb87c64a68b648ccaecf1a, findElement {using=css selector, value=button[class='style__StyledTab-v9cpf6-1 xWmCe']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50471}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50471/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0bd587e7aebb87c64a68b648ccaecf1a 
+2021-12-03 17:20:20,041 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 17:20:20,043 ERROR [Log] select_favorite_products_and_go_to_product() Failed! with cause: Cannot invoke "com.gittigidiyor.study.page.ProductsPage.scrollDownClick()" because "this.productsPage" is null 
+2021-12-03 17:20:23,151 ERROR [Log] add_cart_product_and_add_adress() Failed! with cause: Expected condition failed: waiting for visibility of element located by By.cssSelector: option[value='1'] (tried for 3 second(s) with 500 milliseconds interval)
+Build info: version: '4.0.0', revision: '3a21814679'
+System info: host: 'DESKTOP-BKLE803', ip: '10.254.158.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50471}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50471/devtoo..., se:cdpVersion: 96.0.4664.45, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0bd587e7aebb87c64a68b648ccaecf1a 
+2021-12-03 17:31:58,544 INFO  [Log] login_and_searh_a_product() Passed! 
+2021-12-03 17:31:58,547 WARN  [Log] negative_login_and_search_a_product() Disabled for Optional[We call only for negative tests] 
+2021-12-03 17:32:15,998 INFO  [Log] select_favorite_products_and_go_to_product() Passed! 
+2021-12-03 17:32:22,723 INFO  [Log] add_cart_product_and_add_adress() Passed! 
+2021-12-03 17:32:33,144 INFO  [Log] go_to_favorite_page_add_and_delete() Passed! 

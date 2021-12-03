@@ -1,14 +1,13 @@
 package com.gittigidiyor.study.base;
 
-import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
+import org.openqa.selenium.*;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.util.List;
+import java.util.Random;
 
 public class BasePage {
     WebDriver driver;
@@ -51,15 +50,48 @@ public class BasePage {
     public JavascriptExecutor scrollDown(){
         javascriptExecutor =((JavascriptExecutor)driver);
         return javascriptExecutor;
-
     }
+
+    public void selectElement(By locator, String value) {
+        Select select = new Select(driver.findElement(locator));
+        select.selectByVisibleText(value);
+    }
+
+    public void clickElementsRandom(By locator){
+        Random random = new Random();
+        List<WebElement> products = findAll(locator);
+        for (int i = 0; i < 4; i++) {
+            int a = random.nextInt(products.size());
+            try{
+                products.get(a).click();
+                products.remove(a);
+                Thread.sleep(1000);
+            }
+            catch (Exception exception)
+            {
+                javascriptExecutor.executeScript("arguments[0].click();", products.get(a));
+            }
+        }
+    }
+
     public void navigateTo() throws InterruptedException {
         Thread.sleep(3000);
         driver.get("https://www.gittigidiyor.com/");
     }
+
     //Bekleme için yazdığım fonksiyon
     public void wait(int i, By locator){
         WebDriverWait wait = new WebDriverWait(driver,i);
         wait.until(ExpectedConditions.visibilityOfElementLocated(locator));
+    }
+
+    public void waitList(int i, By locator){
+        WebDriverWait wait = new WebDriverWait(driver,i);
+        wait.until(ExpectedConditions.visibilityOfAllElementsLocatedBy(locator));
+    }
+
+    public void newTab(String tabName){
+        driver.switchTo().newWindow(WindowType.TAB);
+        driver.navigate().to(tabName);
     }
 }

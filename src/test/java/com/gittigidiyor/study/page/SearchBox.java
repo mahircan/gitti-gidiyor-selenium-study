@@ -14,6 +14,7 @@ public class SearchBox extends BasePage {
     }
 
     public void search(String searchText){
+        wait(3,searchBoxLocator);
         click(searchBoxLocator);
         type(searchBoxLocator,searchText);
         click(searchButtonLocator);

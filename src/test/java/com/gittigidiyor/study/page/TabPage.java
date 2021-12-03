@@ -7,4 +7,7 @@ public class TabPage extends BasePage {
     public TabPage(WebDriver driver) {
         super(driver);
     }
-}
+
+    public void newTabHomePage() {
+        newTab("https://www.gittigidiyor.com/");
+    }}

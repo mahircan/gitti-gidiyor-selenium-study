@@ -8,10 +8,11 @@ public class HomePage extends BasePage {
     SearchBox searchBox;
 
     By uniqueHomePageLocator = new By.ByCssSelector("button[class='style__StyledTab-v9cpf6-1 xWmCe']");
-    By hoverLoginButtonLocator = new By.ByCssSelector("div[data-cy=\"header-user-menu\"]");
-    By hoverLoginClickLocator = By.xpath("//a[@data-cy='header-login-button']");
-    By hoverAccountButtonLocator = new By.ByCssSelector("");
-    By hoverFavoriteButtonLocator = new By.ByCssSelector("");
+    By hoverLoginButtonLocator = new By.ByCssSelector("div[data-cy='header-user-menu']");
+    By hoverLoginClickLocator = new By.ByCssSelector("a[data-cy='header-login-button']");
+    By hoverAccountButtonLocator = new By.ByCssSelector("div[title='Hesabım'] div[class='gekhq4-4 egoSnI']");
+    By hoverFavoriteButtonLocator = new By.ByCssSelector("a[title='Favorilerim']");
+    By hoverLogoutButtonLocator = new By.ByCssSelector("a[title='Çıkış']");
     //By hover yapan için
     //tıklattıçağımız olacak
 
@@ -28,8 +29,9 @@ public class HomePage extends BasePage {
     public void hoverElement(){
         hoverElement(hoverLoginButtonLocator);
     }
-    public void clickHoverLoginButton(){
 
+    public void clickHoverLoginButton(){
+        wait(3,hoverLoginClickLocator);
         click(hoverLoginClickLocator);
     }
 
@@ -37,14 +39,17 @@ public class HomePage extends BasePage {
         hoverElement(hoverAccountButtonLocator);
     }
     public void clickHoverFavoriteButton(){
-
+        wait(3,hoverFavoriteButtonLocator);
         click(hoverFavoriteButtonLocator);
     }
 
+    public void clickHoverLogoutButton(){
+        wait(3,hoverLogoutButtonLocator);
+        click(hoverLogoutButtonLocator);
+    }
 
 
-
-    //   public boolean isHomePage() {
-    //  return isDisplayed(uniqueHomePageLocator);
-    // }
+       public boolean isHomePage() {
+      return isDisplayed(uniqueHomePageLocator);
+     }
 }

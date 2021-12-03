@@ -11,7 +11,7 @@
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
-        <selenium.version>3.141.59</selenium.version>
+        <selenium.version>4.0.0</selenium.version>
         <junit.jupiter.version>5.7.0</junit.jupiter.version>
     </properties>
 
